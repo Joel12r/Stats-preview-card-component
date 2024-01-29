@@ -33,6 +33,13 @@ h1 {
     margin-left: 1.5em;
     margin-top: 2em;
 }
+h2{
+    color: white;
+    font-family: Inter;
+    font-weight: 700;
+    width: 80%;
+ 
+}
 
 p {
     font-family: Lexend Deca;
@@ -67,7 +74,7 @@ img {
 
 }
 
-@media (max-width:375px) {
+@media (max-width:400px) {
     .offset-sm-4 {
         margin-left: 7em;
     }
