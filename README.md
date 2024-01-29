@@ -25,9 +25,3 @@ This is a simple HTML/CSS project showcasing a stats preview card component. It 
 - Challenge by Frontend Mentor.
 - Coded by Joseph Ekali Moyenda.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
